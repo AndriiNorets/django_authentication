@@ -1,0 +1,27 @@
+.profile-container {
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 8px solid #d3d3d3; 
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #eee;
+
+}
+.profile-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.text-container{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.text-style{
+    color:#777;
+}
+.indexpage-text{
+    margin-left: 350px;
+    color:#777;
+}
+
